@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Software Engineer at **:contentReference[oaicite:0]{index=0}**
+- 🚀 Software Engineer at **Samsung R&D Bengaluru**
 - 💡 Build scalable backend systems & reliable payment workflows
 - 🧠 Strong in Data Structures, Algorithms & System Design
 - ⚡ Passionate about performance optimization & distributed systems
